@@ -1,36 +1,6 @@
 <div align="center">
-
-<h3><code>abhijit@github ~ $ ./contributions.sh</code></h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijit0343&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true&hide_title=true&height=250" alt="contribution graph" width="95%" />
-
+  <img src="profile-card.svg" alt="abhijit@github terminal-style profile card" width="100%" />
 </div>
-
-<br>
-
-<h3 align="center"><code>abhijit@github ~ $ whoami</code></h3>
-
-<table align="center">
-<tr>
-<td valign="top">
-<pre>
-name     Abhijit Karmakar
-study    B.Tech CSE, BCREC Durgapur
-intern   NIT Durgapur, Systems Research Lab
-focus    AI / ML, computer vision, RAG
-built    brain-tumor MRI explorer
-         F1 dynamics simulator
-         OpenCV vision apps
-now      DSA in Java on LeetCode :)
-</pre>
-</td>
-<td valign="top">
-<img src="https://streak-stats.demolab.com/?user=abhijit0343&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="streak stats" width="400" />
-<br>
-<img src="https://github-readme-stats.shion.dev/api?username=abhijit0343&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="github stats" width="400" />
-</td>
-</tr>
-</table>
 
 <p align="center"><code>ask me about: ML models, RAG pipelines, or why i &lt;= arr.length is a crime</code></p>
 
