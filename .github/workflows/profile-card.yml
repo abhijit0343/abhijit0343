@@ -1,0 +1,36 @@
+name: Update profile card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    paths:
+      - "generate_card.py"
+      - ".github/workflows/profile-card.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile-card.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 generate_card.py --user abhijit0343 --out profile-card.svg
+
+      - name: Commit the card if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-card.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update profile card"
+            git push
+          fi
