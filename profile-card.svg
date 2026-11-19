@@ -387,7 +387,8 @@
 <rect x="848.0" y="111" width="12" height="12" rx="2.5" fill="#0f5a2c"/>
 <rect x="848.0" y="126" width="12" height="12" rx="2.5" fill="#0f5a2c"/>
 <rect x="848.0" y="141" width="12" height="12" rx="2.5" fill="#0f5a2c"/>
-<text x="68.0" y="221" font-size="11" fill="#e6edf3" font-weight="bold" text-anchor="start" >119 contributions in the last year</text>
+<rect x="848.0" y="156" width="12" height="12" rx="2.5" fill="#0f5a2c"/>
+<text x="68.0" y="221" font-size="11" fill="#e6edf3" font-weight="bold" text-anchor="start" >122 contributions in the last year</text>
 <text x="450.0" y="272" font-size="18" fill="#e6edf3" font-weight="bold" text-anchor="middle" >abhijit@github ~ $ whoami</text>
 <rect x="40.5" y="296.5" width="399" height="409" rx="8" fill="#0d1117" stroke="#1f2630"/>
 <circle cx="56" cy="312" r="3.5" fill="#ff5f56" opacity="0.85"/>
@@ -438,22 +439,22 @@
 <text x="658.0" y="315" font-size="9.5" fill="#7d8590" font-weight="normal" text-anchor="middle" >stats.json</text>
 <rect x="470.5" y="330.5" width="183.0" height="65" rx="6" fill="#10151c" stroke="#1f2630"/>
 <text x="482.0" y="348" font-size="9.5" fill="#7d8590" font-weight="normal" text-anchor="start" >$ current streak</text>
-<text x="482.0" y="375" font-size="26" fill="#3fdc66" font-weight="bold" text-anchor="start" >6</text>
+<text x="482.0" y="375" font-size="26" fill="#3fdc66" font-weight="bold" text-anchor="start" >7</text>
 <text x="503.6" y="375" font-size="10.5" fill="#7d8590" font-weight="normal" text-anchor="start" >days</text>
-<text x="482.0" y="389" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="start" >Nov 13 - Nov 18</text>
+<text x="482.0" y="389" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="start" >Nov 13 - Nov 19</text>
 <rect x="662.5" y="330.5" width="183.0" height="65" rx="6" fill="#10151c" stroke="#1f2630"/>
 <text x="674.0" y="348" font-size="9.5" fill="#7d8590" font-weight="normal" text-anchor="start" >$ longest streak</text>
-<text x="674.0" y="375" font-size="26" fill="#e6edf3" font-weight="bold" text-anchor="start" >6</text>
+<text x="674.0" y="375" font-size="26" fill="#e6edf3" font-weight="bold" text-anchor="start" >7</text>
 <text x="695.6" y="375" font-size="10.5" fill="#7d8590" font-weight="normal" text-anchor="start" >days</text>
-<text x="674.0" y="389" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="start" >Nov 13 - Nov 18</text>
+<text x="674.0" y="389" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="start" >Nov 13 - Nov 19</text>
 <rect x="470.5" y="404.5" width="183.0" height="65" rx="6" fill="#10151c" stroke="#1f2630"/>
 <text x="482.0" y="422" font-size="9.5" fill="#7d8590" font-weight="normal" text-anchor="start" >$ contributions</text>
-<text x="482.0" y="449" font-size="26" fill="#e6edf3" font-weight="bold" text-anchor="start" >119</text>
+<text x="482.0" y="449" font-size="26" fill="#e6edf3" font-weight="bold" text-anchor="start" >122</text>
 <text x="482.0" y="463" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="start" >in the last year</text>
 <rect x="662.5" y="404.5" width="183.0" height="65" rx="6" fill="#10151c" stroke="#1f2630"/>
 <text x="674.0" y="422" font-size="9.5" fill="#7d8590" font-weight="normal" text-anchor="start" >$ active days</text>
-<text x="674.0" y="449" font-size="26" fill="#e6edf3" font-weight="bold" text-anchor="start" >52</text>
-<text x="711.2" y="449" font-size="10.5" fill="#7d8590" font-weight="normal" text-anchor="start" >/ 368</text>
+<text x="674.0" y="449" font-size="26" fill="#e6edf3" font-weight="bold" text-anchor="start" >53</text>
+<text x="711.2" y="449" font-size="10.5" fill="#7d8590" font-weight="normal" text-anchor="start" >/ 369</text>
 <text x="674.0" y="463" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="start" >14% of the year</text>
 <rect x="470.5" y="478.5" width="183.0" height="65" rx="6" fill="#10151c" stroke="#1f2630"/>
 <text x="482.0" y="496" font-size="9.5" fill="#7d8590" font-weight="normal" text-anchor="start" >$ best day</text>
@@ -465,31 +466,31 @@
 <text x="674.0" y="537" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="start" >contributions</text>
 <rect x="470.5" y="552.5" width="375" height="139" rx="6" fill="#10151c" stroke="#1f2630"/>
 <text x="482" y="570" font-size="9.5" fill="#7d8590" font-weight="normal" text-anchor="start" >$ contributions / month</text>
-<rect x="487.9" y="640.1" width="17.6" height="25.9" rx="1.5" fill="#3fdc66"/>
+<rect x="487.9" y="642.0" width="17.6" height="24.0" rx="1.5" fill="#3fdc66"/>
 <text x="496.7" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >D</text>
-<rect x="517.2" y="653.9" width="17.6" height="12.1" rx="1.5" fill="#3fdc66"/>
+<rect x="517.2" y="654.8" width="17.6" height="11.2" rx="1.5" fill="#3fdc66"/>
 <text x="526.0" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >J</text>
-<rect x="546.5" y="643.5" width="17.6" height="22.5" rx="1.5" fill="#3fdc66"/>
+<rect x="546.5" y="645.2" width="17.6" height="20.8" rx="1.5" fill="#3fdc66"/>
 <text x="555.3" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >F</text>
-<rect x="575.9" y="655.6" width="17.6" height="10.4" rx="1.5" fill="#3fdc66"/>
+<rect x="575.9" y="656.4" width="17.6" height="9.6" rx="1.5" fill="#3fdc66"/>
 <text x="584.7" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >M</text>
-<rect x="605.2" y="659.1" width="17.6" height="6.9" rx="1.5" fill="#3fdc66"/>
+<rect x="605.2" y="659.6" width="17.6" height="6.4" rx="1.5" fill="#3fdc66"/>
 <text x="614.0" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >A</text>
-<rect x="634.5" y="660.8" width="17.6" height="5.2" rx="1.5" fill="#3fdc66"/>
+<rect x="634.5" y="661.2" width="17.6" height="4.8" rx="1.5" fill="#3fdc66"/>
 <text x="643.3" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >M</text>
 <rect x="663.9" y="664.0" width="17.6" height="2.0" rx="1.5" fill="#3fdc66"/>
 <text x="672.7" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >J</text>
-<rect x="693.2" y="662.5" width="17.6" height="3.5" rx="1.5" fill="#3fdc66"/>
+<rect x="693.2" y="662.8" width="17.6" height="3.2" rx="1.5" fill="#3fdc66"/>
 <text x="702.0" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >J</text>
-<rect x="722.5" y="659.1" width="17.6" height="6.9" rx="1.5" fill="#3fdc66"/>
+<rect x="722.5" y="659.6" width="17.6" height="6.4" rx="1.5" fill="#3fdc66"/>
 <text x="731.3" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >A</text>
-<rect x="751.9" y="638.3" width="17.6" height="27.7" rx="1.5" fill="#3fdc66"/>
+<rect x="751.9" y="640.4" width="17.6" height="25.6" rx="1.5" fill="#3fdc66"/>
 <text x="760.7" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >S</text>
-<rect x="781.2" y="645.2" width="17.6" height="20.8" rx="1.5" fill="#3fdc66"/>
+<rect x="781.2" y="646.8" width="17.6" height="19.2" rx="1.5" fill="#3fdc66"/>
 <text x="790.0" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >O</text>
 <rect x="810.5" y="602.0" width="17.6" height="64.0" rx="1.5" fill="#8dffa8"/>
 <text x="819.3" y="682" font-size="9" fill="#7d8590" font-weight="normal" text-anchor="middle" >N</text>
-<text x="819.3" y="596.0" font-size="9" fill="#e6edf3" font-weight="normal" text-anchor="middle" >37</text>
+<text x="819.3" y="596.0" font-size="9" fill="#e6edf3" font-weight="normal" text-anchor="middle" >40</text>
 <rect x="40.5" y="722.5" width="819" height="167" rx="8" fill="#0d1117" stroke="#1f2630"/>
 <circle cx="56" cy="738" r="3.5" fill="#ff5f56" opacity="0.85"/>
 <circle cx="68" cy="738" r="3.5" fill="#ffbd2e" opacity="0.85"/>
